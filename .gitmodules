@@ -1,0 +1,32 @@
+[submodule "testes"]
+	path = testes
+	url = https://github.com/disruptek/testes
+	branch = master
+[submodule "frosty"]
+	path = frosty
+	url = https://github.com/disruptek/frosty
+	branch = master
+[submodule "supersnappy"]
+	path = supersnappy
+	url = https://github.com/guzba/supersnappy
+	branch = master
+[submodule "ws"]
+	path = ws
+	url = https://github.com/treeform/ws
+	branch = master
+[submodule "packedjson"]
+	path = packedjson
+	url = https://github.com/Araq/packedjson
+	branch = master
+[submodule "uuids"]
+	path = uuids
+	url = https://github.com/pragmagic/uuids
+	branch = master
+[submodule "gram"]
+	path = gram
+	url = https://github.com/disruptek/gram
+	branch = master
+[submodule "isaac"]
+	path = isaac
+	url = https://github.com/pragmagic/isaac
+	branch = master
